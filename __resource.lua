@@ -2,10 +2,8 @@ fx_version 'adamant'
 games { 'gta5' }
 
 client_scripts {
-    'client.lua'
+    'spawnPos.lua',
+	'spawnVeh.lua'
 }
 
---server_script {
---	'server.lua'
---}
 
